@@ -12,7 +12,6 @@ import com.example.projetoescola.models.CategoriaCurso;
 import com.example.projetoescola.models.Curso;
 import com.example.projetoescola.repositories.CategoriaCursoRepository;
 import com.example.projetoescola.repositories.CursoRepository;
-import java.util.List;
 
 @SpringBootApplication
 public class ProjetoescolaApplication {
